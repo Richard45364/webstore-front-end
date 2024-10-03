@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "Hello, World!"
+# small change
+echo "Omegapwn 2.0" 
