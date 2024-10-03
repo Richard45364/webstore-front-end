@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "Omegapwn" 
+# small change
+echo "Omegapwn 2.0" 
